@@ -1,0 +1,16 @@
+.nav-white{
+     color: white;
+ }
+ a:hover{
+     color: #D8D38C;     
+ }
+ .center{
+     text-align:center;
+ }
+
+ .st2{ 
+     font-weight: bold;
+ }
+ .barraY{
+ 	overflow-y: scroll;
+ }
